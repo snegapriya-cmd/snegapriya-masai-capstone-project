@@ -1,0 +1,5 @@
+Submission notes:
+1. This is a synthetic educational demonstration project.
+2. Run `pip install -r requirements.txt` then `python run_project.py`.
+3. Do not describe synthetic data or heuristic risk flags as real Swiggy production data or validated churn predictions.
+4. Update the README with your own name, course, date and what you personally changed before submitting.
